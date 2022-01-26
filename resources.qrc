@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fractal.frag</file>
+        <file>fractal.vert</file>
+    </qresource>
+</RCC>
